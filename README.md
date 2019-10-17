@@ -12,6 +12,10 @@ Instructions on how to contribute.
 **** Step 5: Digital ocean will ask for shipping address via email.
 **** Step 6: Wait for that awesome Hacktoberfest t-shirt from Github & Digital Ocean.
 
+#### Learn how to make a pull request
+**** Pull requests are a way of contributing your code changes to an open source project. They use a tool called Git, which runs on a social coding platform called GitHub.
+
+
 
 
 
